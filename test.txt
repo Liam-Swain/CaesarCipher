@@ -1,0 +1,5 @@
+Hello my name is Liam
+This is a test for the cipher encryption
+TEST
+test
+tEsT
